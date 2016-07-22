@@ -1,0 +1,14 @@
+layout_spectrum: 0.9547800275031477
+typography_spectrum: 0.7194285264704376
+color:
+  brandStrength: 0.43027427373453975
+  lightness: 0.9179671220481396
+  saturation: 0.8198097862768918
+  rhythmicContrast: 0.4080887227319181
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Produkte
